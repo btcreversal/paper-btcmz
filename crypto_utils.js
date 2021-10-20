@@ -1648,7 +1648,7 @@ var config = {
     coinSymbol: 'BTCMZ',
     coinName: 'BitcoinMono',
     coinUriPrefix: 'bitcoinmono:',
-    addressPrefix: 123401
+    addressPrefix: 01e209
 };
 var cnUtil = (function(initConfig) {
     //var config = $.extend({}, initConfig);
